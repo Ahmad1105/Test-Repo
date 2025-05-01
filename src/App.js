@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload. This is AHmad's project.
-          this is project related to junior devopps enginer.
+          this is project related to junior devopps enginer. YOu can see the chaning of this project.
         </p>
         <a
           className="App-link"
